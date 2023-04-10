@@ -1,4 +1,4 @@
-package com.example.demo.controller;
+package com.example.demo.Model;
 
 public class OrderRequest {
     private String drinkName;
